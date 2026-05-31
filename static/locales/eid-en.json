@@ -1,0 +1,40 @@
+{
+  "header": {
+    "region_name": "Dipartimento per la trasformazione digitale"
+  },
+  "titles": {
+    "page_title": "Autentication Method Selection Page",
+    "login_logo": "Your Logo",
+    "login_digital_identity": "Log in with a digital identity",
+    "login_alternative_method": "Log in using an alternative method",
+    "havent_digital_identy": "Don't have a digital identity yet?",
+    "find_how_to_get_digital_id": "Find out how to get it",
+    "find_how_to_get_digital_id_url": "https://identitadigitale.gov.it/",
+    "learn_more": "Learn more"
+  },
+  "digital_id": {
+    "cie": {
+      "name": "CIE",
+      "logo_text": "Login with CIE",
+      "logo": "cie/cie_white.svg",
+      "login_url": "/Saml2/disco?entityID=https://idserver.servizicie.interno.gov.it/idp/profile/SAML2/POST/SSO&return=https://sso.exampleservice.it/Saml2/disco",
+      "learn_more_descr": "CIE (Carta d’Identità Elettronica) is the Italian electronic identity card. Use it to access online services in a secure way via the SAML2 protocol.",
+      "learn_more_link": "https://www.cartaidentita.interno.gov.it/",
+      "learn_more_label": "Find out how to get it"
+    },
+    "spid": {
+      "name": "SPID",
+      "logo_text": "Login with SPID",
+      "logo": "https://raw.githubusercontent.com/italia/spid-idp-login-layout/master/img/spid-ico-circle-bb.svg",
+      "login_url": "#spid-idp-button-xlarge-post",
+      "learn_more_descr": "SPID (Sistema Pubblico di Identità Digitale) is the Italian public digital identity system. Choose your identity provider to log in with your SPID credentials.",
+      "learn_more_link": "https://www.spid.gov.it/",
+      "learn_more_label": "Find out how to get it"
+    }
+  },
+  "footer": {
+    "legal_notice": "Legal notes",
+    "privacy_policy": "Privacy Policy",
+    "accessibility_statement": "Accessibility statement"
+  }
+}
