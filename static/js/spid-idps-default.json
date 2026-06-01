@@ -10,6 +10,5 @@
   { "organization_name": "InfoCamere S.C.p.A.", "entity_id": "https://loginspid.infocamere.it", "logo_uri": "/static/img/spid-idp-infocamereid.svg" },
   { "organization_name": "Namirial", "entity_id": "https://idp.namirialtsp.com/idp", "logo_uri": "/static/img/spid-idp-namirialid.svg" },
   { "organization_name": "Lepida S.p.A.", "entity_id": "https://id.lepida.it/idp/shibboleth", "logo_uri": "/static/img/spid-idp-lepidaid.svg" },
-  { "organization_name": "Register.it S.p.A.", "entity_id": "https://spid.register.it", "logo_uri": "/static/img/spid-idp-spiditalia.svg" },
-  { "organization_name": "SPID Test", "entity_id": "https://localhost:8443", "logo_uri": "" }
+  { "organization_name": "Register.it S.p.A.", "entity_id": "https://spid.register.it", "logo_uri": "/static/img/spid-idp-spiditalia.svg" }
 ]
