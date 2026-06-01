@@ -17,7 +17,7 @@
       "name": "CIE",
       "logo_text": "Entra con CIE",
       "logo": "cie/cie_white.svg",
-      "login_url": "/Saml2/disco?entityID=https://idserver.servizicie.interno.gov.it/idp/profile/SAML2/POST/SSO&return=https://sso.exampleservice.it/Saml2/disco",
+      "login_url": "https://iam-proxy-italia.developers.italia.it/Saml2/disco?entityID=https://idserver.servizicie.interno.gov.it/idp/profile/SAML2/POST/SSO&return=https://iam-proxy-italia.developers.italia.it/cieSaml2/disco",
       "learn_more_descr": "La CIE (Carta d’Identità Elettronica) è il documento d'identità elettronico italiano. Usala per accedere ai servizi online in modo sicuro tramite il protocollo SAML2.",
       "learn_more_link": "https://www.cartaidentita.interno.gov.it/",
       "learn_more_label": "Scopri come ottenerla"
