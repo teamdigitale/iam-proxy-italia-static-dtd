@@ -12,8 +12,8 @@
     "message": "Per visualizzare correttamente questa pagina è necessario abilitare JavaScript."
   },
   "header": {
-    "organization_name": "Nome dell'Organizzazione",
-    "region_name": "Nome dell'Organizzazione",
+    "organization_name": "Dipartimento per la trasformazione digitale",
+    "region_name": "Dipartimento per la trasformazione digitale",
     "logo_title": "Il tuo logo",
     "lang_active_hint": "lingua attiva:",
     "lang_trigger": "Selezione lingua, {{name}} selezionata"
@@ -37,7 +37,7 @@
     "assistance_link_title": "Vai alla pagina di assistenza"
   },
   "footer": {
-    "organization_name": "Nome dell'Organizzazione",
+    "organization_name": "Dipartimento per la trasformazione digitale",
     "tagline": "Lorem ipsum",
     "contacts": "Contatti",
     "contacts_title": "Vai alla pagina: Contatti",

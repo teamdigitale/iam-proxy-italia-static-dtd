@@ -2,8 +2,8 @@
   "$schema": "./branding.config.schema.json",
   "staticBasePath": "/static",
   "organizationName": {
-    "it": "Nome dell'Organizzazione",
-    "en": "Organization Name"
+    "it": "Dipartimento per la trasformazione digitale",
+    "en": "Dipartimento per la trasformazione digitale"
   },
   "logo": {
     "image": "",

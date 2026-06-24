@@ -12,8 +12,8 @@
     "message": "JavaScript must be enabled to display this page correctly."
   },
   "header": {
-    "organization_name": "Organization Name",
-    "region_name": "Organization Name",
+    "organization_name": "Dipartimento per la trasformazione digitale",
+    "region_name": "Dipartimento per la trasformazione digitale",
     "logo_title": "Your Logo",
     "lang_active_hint": "active language:",
     "lang_trigger": "Language selection, {{name}} selected"
@@ -37,7 +37,7 @@
     "assistance_link_title": "Go to assistance page"
   },
   "footer": {
-    "organization_name": "Organization Name",
+    "organization_name": "Dipartimento per la trasformazione digitale",
     "tagline": "Lorem ipsum",
     "contacts": "Contacts",
     "contacts_title": "Go to page: Contacts",
